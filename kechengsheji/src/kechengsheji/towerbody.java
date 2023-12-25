@@ -1,5 +1,5 @@
 package kechengsheji;
-//江苏大学物联网2101孙家扬3210611018
+
 import javax.swing.*;
 import java.awt.*;
 
