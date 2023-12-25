@@ -1,4 +1,4 @@
-//江苏大学物联网2101孙家扬3210611018
+
 package kechengsheji;
 import javax.swing.*;
 //主函数
